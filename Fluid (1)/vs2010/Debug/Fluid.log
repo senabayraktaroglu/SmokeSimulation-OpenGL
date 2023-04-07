@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ecosystem.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CreateObstacles.c
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(38,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(46,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(47,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(50,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(51,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(91,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(99,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(100,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(103,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\byzba\Downloads\Fluid (1)\CreateObstacles.c(104,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Fluid.c
+  CreateQuad.c
+  CreateProgram.c
+  SlabOps.c
+  CreateSlab.c
+  Generating Code...
+  Fluid.vcxproj -> C:\Users\byzba\Downloads\Fluid (1)\vs2010\Debug\Fluid.exe
